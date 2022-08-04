@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @forsbergmattias
-- 👀 I’m interested in coding with python, django, svelte and react as well as anything relating to management of technology
+- 👀 I’m interested in coding with python, django, angular and react as well as anything relating to management of technology
 - 🌱 I’m currently learning how svelte and django can work together 
 - 💞️ I’m looking to collaborate on projects to create better automation for technology managers
 - 📫 How to reach me: forsberg.mattias@gmail.com
